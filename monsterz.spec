@@ -1,12 +1,12 @@
 Summary:	Monsterz - arcade puzzle game
 Summary(pl.UTF-8):	Monsterz - układanka zręcznościowa
 Name:		monsterz
-Version:	0.7.0
+Version:	0.7.1
 Release:	1
 License:	WTFPL v2
 Group:		Applications/Games
 Source0:	http://sam.zoy.org/monsterz/%{name}-%{version}.tar.gz
-# Source0-md5:	323d04d4a2a2905df91eab4ff17e537d
+# Source0-md5:	c2bdb68dcd636df1abd130ac86defd11
 URL:		http://sam.zoy.org/monsterz/
 Requires:	python
 Requires:	python-pygame
@@ -29,8 +29,8 @@ gier Bejeweled czy Zookeeper.
 
 Celem gry jest utworzenie rzędów podobnych potworów, poziomo lub
 pionowo. Jedynym dozwolonym ruchem jest zamiana dwóch sąsiednich
-potworów, pod warunkiem, ze tworzy to rząd trzech lub więcej
-takich samych. Po wyczyszczeniu z góry ekranu spadają kolejne
+potworów, pod warunkiem, że tworzy to rząd trzech lub więcej
+takich samych. Po wyczyszczeniu, z góry ekranu spadają kolejne
 elementy, aby wypełnić z powrotem planszę. Reakcje łańcuchowe
 pozwalają zdobyć nawet więcej punktów.
 
